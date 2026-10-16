@@ -1,0 +1,39 @@
+{
+    "format_version": 2,
+    "header": {
+        "name": "§lBedrock Better §vRedstone§r §oby §lJelaluo",
+        "description": "Enhanced Redstone Components Textures",
+        "uuid": "7e6a62bd-23f0-468d-b46a-2dcb5ed48e19",
+        "version": [
+            1,
+            3,
+            0
+        ],
+        "min_engine_version": [
+            1,
+            21,
+            70
+        ]
+    },
+    "modules": [
+        {
+            "description": "",
+            "type": "resources",
+            "uuid": "7e6ee926-ce05-4f23-b5c3-50c70bc92507",
+            "version": [
+                1,
+                3,
+                0
+            ]
+        }
+    ],
+    "metadata": {
+        "authors": [
+            "Jelaluo"
+        ],
+        "url": "https://github.com/Jelaluo/resource-packs"
+    },
+    "capabilities": [
+        "pbr"
+    ]
+}

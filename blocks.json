@@ -1,0 +1,54 @@
+{
+    "format_version": "1.21.40",
+    "dropper": {
+        "blockshape": "command_block",
+        "textures": {
+            "up": "dropper_top",
+            "down": "furnace_top",
+            "north": "dropper_top",
+            "south": "dropper_front_horizontal",
+            "east": "dropper_front_vertical",
+            "west": ""
+        },
+        "sound": "stone"
+    },
+    "dispenser": {
+        "blockshape": "command_block",
+        "textures": {
+            "up": "dispenser_top",
+            "down": "furnace_top",
+            "north": "dispenser_top",
+            "south": "dispenser_front_horizontal",
+            "east": "dispenser_front_vertical",
+            "west": ""
+        },
+        "sound": "stone"
+    },
+    "hopper": {
+        "sound": "metal",
+        "textures": {
+            "down": "hopper_inside",
+            "east": "hopper_outside_east",
+            "north": "hopper_outside_north",
+            "south": "hopper_outside_south",
+            "up": "hopper_top",
+            "west": "hopper_outside_west"
+        }
+    },
+    "sticky_piston": {
+        "carried_textures": {
+            "down": "piston_bottom_sticky",
+            "side": "piston_side_sticky",
+            "up": "piston_top_sticky"
+        },
+        "sound": "stone",
+        "textures": {
+            "down": "piston_bottom_sticky",
+            "side": "piston_side_sticky",
+            "up": "piston_inner_sticky"
+        }
+    },
+   "stickyPistonArmCollision" : {
+      "textures" : "piston_inner_sticky"
+   }
+}

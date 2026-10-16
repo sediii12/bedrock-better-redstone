@@ -1,0 +1,53 @@
+{
+    "Aesthetic": [],
+    "More Zombies": [],
+    "Terrain": [],
+    "Lower and Sides": [],
+    "Variation": [],
+    "Peace and Quiet": [],
+    "Mobs": [],
+    "Utility": [
+        "MusicDiscRedstoneLevelPreview",
+        "StickyPistonSides",
+        "CleanRedstoneDust",
+        "BackPiston"
+    ],
+    "Directional": [
+        "DirectionalHoppers",
+        "DirectionalObservers",
+        "DirectionalDispensers",
+        "DirectionalDroppers"
+    ],
+    "Growth Stages": [],
+    "Unobtrusive": [],
+    "3D": [],
+    "GUI": [],
+    "Fonts": [],
+    "Crosshairs": [],
+    "Hearts": [],
+    "LGBTQ+ Pride": [],
+    "Hunger Bars": [],
+    "Armor Bars": [],
+    "XP Bars": [],
+    "Hotbar Selector": [],
+    "Menu Panoramas": [],
+    "Xisuma's Hermitcraft Bases": [],
+    "Retro": [],
+    "Fun": [],
+    "World of Color": [],
+    "Colorful Slime": [],
+    "Elytra": [],
+    "Enchantment Glints": [],
+    "Parity": [],
+    "Fixes and Consistency": [],
+    "raw": [
+        "MusicDiscRedstoneLevelPreview",
+        "StickyPistonSides",
+        "CleanRedstoneDust",
+        "BackPiston",
+        "DirectionalHoppers",
+        "DirectionalObservers",
+        "DirectionalDispensers",
+        "DirectionalDroppers"
+    ]
+}
